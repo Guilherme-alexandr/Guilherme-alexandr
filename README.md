@@ -1,16 +1,43 @@
-## Hi there 👋
+### 👋🏾 Olá! Eu sou o Guilherme Alexandre
 
-<!--
-**Guilherme-alexandr/Guilherme-alexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Desenvolvedor em constante evolução | Estudante de Analise e Desenvolvimento de Sistemas  
+🌍 Apaixonado por tecnologia, inovação e impacto social  
+💡 Transformando ideias em código e sonhos em projetos reais
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Áreas de Interesse:
+
+- **Desenvolvimento Web & API** com Flask, JavaScript, Python e Node.js  
+- **Mobile** com Kotlin e React Native  
+- **DevOps & Microsserviços** | Automatização, CI/CD  
+- **Inteligência Artificial & Segurança Digital** – Pesquisa sobre IA em sistemas de vigilância  
+- **UX focado em acessibilidade e impacto social**
+
+---
+
+### 📌 Alguns projetos que refletem meu estilo:
+
+- 🍕 **Pizzaria Online** – Backend em Flask + frontend JS, com login, pedidos e testes automatizados  
+- 🛒 **Mercado Virtual** – E-commerce simples com gerenciamento de carrinho e pedidos  
+- 🤖 **API Educacional** – Gestão de alunos, turmas e professores com testes e documentação  
+- 🔐 **Pesquisa Científica** – "Segurança com Inteligência Artificial", explorando ética e tecnologia  
+
+---
+
+### 🧭 Visão
+
+Mais do que codar, quero criar ferramentas que gerem acesso, voz e presença para quem muitas vezes é invisibilizado.  
+
+---
+
+### 📬 Vamos conversar?
+
+- 💼 https://www.linkedin.com/in/guilherme-alexandre002/
+- 📫 Email: guilhermedafranca002@gmail.com
+- ☕ Sempre aberto a colaborações, projetos e boas ideias!
+
+---
+
+> “O conhecimento que vem de nossos ancestrais é o que guia o código que escrevemos hoje.”
+
